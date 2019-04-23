@@ -1,5 +1,3 @@
-![img](Resources/Cover/howtoget.jpg)
-
 # What is this?
 This is the GitHub repo for my book on careers. The book was converted into HTML using [Pandoc](https://pandoc.org/). The HTML is rendered into a HTML Card on [Ghost](https://ghost.org) on my blog, [Skerritt.blog](https://skerritt.blog). 
 
