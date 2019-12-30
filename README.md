@@ -25,5 +25,3 @@ If you want to add things to the book, you have 2 options:
 * Comment on my blog / Dev.to posting of the book
 
 If you change something, your name will go into the acknowledgements section of the book. The e-book will be updated faster than the physical book. Everytime I update the physical book, I have to get a new ISBN number which costs $$$. I will let you know when the next physical edition is released :)
-
-![img](Resources/Cover/howtoget.jpg)
