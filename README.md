@@ -1,4 +1,7 @@
 # What is this?
+
+[![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
+
 This is the GitHub repo for my book on careers. The book was converted into HTML using [Pandoc](https://pandoc.org/). The HTML is rendered into a HTML Card on [Ghost](https://ghost.org) on my blog, [Skerritt.blog](https://skerritt.blog). 
 
 It's a 34,000 word book on everything you could ever want to know about employability skills. You can read the entire book, online, for free on my blog:
